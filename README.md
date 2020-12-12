@@ -14,7 +14,7 @@ We will be conducting two python analyses to look at total released by facility 
 
 ![image1](https://github.com/katiesunsg/toxicwaste-baltimorecity/blob/main/totalreleasedpythonbargraph.png)
 
-From there, we took the top 7 facilities that had released a significant amount of toxic chemicals to be reflected on the graph to see the overall amount of chemicals released over 4 years. We can see that the Grace Davidson-Curtis Bay Works facility was the top contributor with just under 2 million pounds of toxic waste released from 2016-2019. 
+From there, we took the top 7 facilities that had released a significant amount of toxic chemicals to be reflected on the graph to see the overall amount of chemicals released over 4 years. We can see that the Grace Davidson-Curtis Bay Works facility was the top contributor with just over 2 million pounds of toxic waste released from 2016-2019. 
 
 ![image2](https://github.com/katiesunsg/toxicwaste-baltimorecity/blob/main/sortedtopfacilitiespython.png)
 
