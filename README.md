@@ -1,6 +1,6 @@
 # Looking at Toxic Waste Releases in Baltimore City, MD by Facility
 ## Background
-For our final project, we thought it would be interesting to look at toxic waste released in Baltimore over 4 years from 2016-2019. We'll take a look at Baltimore City data from [The Toxics Releases Inventory (TRI) Program,](https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools) which is a program under the U.S. Environmental Protection Agency that "tracks the industrical management of toxic chemicals that may cause harm to human health and the environment."
+For our final project, we thought it would be interesting to look at toxic waste released in Baltimore over 4 years from 2016-2019. We'll take a look at Baltimore City data from [The Toxics Releases Inventory (TRI) Program,](https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools) which is a program under the [U.S. EPA](https://www.epa.gov/) that "tracks the industrical management of toxic chemicals that may cause harm to human health and the environment."
 
 ## Business Question
 ***How has the amount of toxic waste released in Baltimore City changed over 4 years and which facilities are top contributors?***
@@ -19,4 +19,4 @@ From there, we took the top 7 facilities that had released a significant amount 
 ![image2](https://github.com/katiesunsg/toxicwaste-baltimorecity/blob/main/sortedtopfacilitiespython.png)
 
 ## Summary
-This data analysis will be useful for our final project as it shows us the top 7 facilities out of the total 36 facilities operating in Baltimore City. In terms of our general reccomendations, we plan to present a reccomendation to the [Environmental Control Board](https://ecb.baltimorecity.gov/welcome-environmental-control-board) which is a Baltimore City department that is "responsible for the adjudication of citations issued by other agencies that affect sanitation, environmental, health, safety, and other quality of life issues."
+This data analysis will be useful for our final project as it shows us the top 7 facilities out of the total 36 facilities operating in Baltimore City. In terms of our general recommendations, we plan to present a recommendation to the [Environmental Control Board](https://ecb.baltimorecity.gov/welcome-environmental-control-board) which is a Baltimore City department that is "responsible for the adjudication of citations issued by other agencies that affect sanitation, environmental, health, safety, and other quality of life issues."
